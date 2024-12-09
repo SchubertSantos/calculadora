@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página de um TODO List (Lista de Tarefas).
 
-- [Acesse o projeto finalizado, online](https://schubertsantos.github.io/todolist)
+- [Acesse o projeto finalizado, online](https://schubertsantos.github.io/calculadora)
 
 
 
